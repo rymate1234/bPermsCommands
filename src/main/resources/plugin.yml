@@ -1,7 +1,7 @@
 name: bPermsCommands
 main: net.rymate.bpermscommands.bPermsCommands
 depend: [ bPermissions ]
-version: 2.0
+version: 1.0
 author: rymate1234
 website: www.rymate.co.uk
 description: Extra commands for bPermissions.
