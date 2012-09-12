@@ -13,6 +13,7 @@ public class bPermsCommands extends JavaPlugin {
     
     @Override
     public void onEnable() {
+        	getCommand("setgroup").setExecutor(new SetGroupCommand(this));
         logger.info("[bPermsCommands] Enabled!");
     }
     
