@@ -16,18 +16,8 @@ commands:
       usage: /<command> <player/group> <prefix> [world]
       permission: bPermsCommands.setprefix
       permission-message: You can't do that :(
-    setsuffix:
-      description: Sets the suffix of a group or player
-      usage: /<command> <player/group> <suffix> [world]
-      permission: bPermsCommands.setsuffix
-      permission-message: You can't do that :(
-    addperm:
+    setprefix:
       description: Adds a permissions node to a group or user
       usage: /<command> <player/group> <permission> [world]
-      permission: bPermsCommands.addperm
-      permission-message: You can't do that :(
-    rmperm:
-      description: Removes a permissions node from a group or user
-      usage: /<command> <player/group> <permission> [world]
-      permission: bPermsCommands.rmperm
+      permission: bPermsCommands.setprefix
       permission-message: You can't do that :(

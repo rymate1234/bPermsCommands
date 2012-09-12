@@ -1,0 +1,302 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getServer"
+			],
+			[
+				"send",
+				"sender"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main/java/net/rymate/bpermscommands/bPermsCommands.java",
+			"settings":
+			{
+				"buffer_size": 481,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/java/net/rymate/bpermscommands/bApi.java",
+			"settings":
+			{
+				"buffer_size": 145,
+				"line_ending": "Unix",
+				"name": "package net.rymate.bpermscommands;"
+			}
+		},
+		{
+			"contents": "name: bPermsCommands\nmain: net.rymate.bpermscommands.bPermsCommands\ndepend: [ bPermissions ]\nversion: 1.0\nauthor: rymate1234\nwebsite: www.rymate.co.uk\ndescription: Extra commands for bPermissions.\ncommands:\n    setgroup:\n      description: Sets the group of a player.\n      usage: /<command> <player> <group> [world]\n      permission: bPermsCommands.setgroup\n      permission-message: You can't do that :(\n    setprefix:\n      description: Sets the prefix of a group or player\n      usage: /<command> <player/group> <prefix> [world]\n      permission: bPermsCommands.setprefix\n      permission-message: You can't do that :(\n    addperm :\n      description: Adds a permissions node to a group or user\n      usage: /<command> <player/group> <permission> [world]\n      permission: bPermsCommands.setprefix\n      permission-message: You can't do that :(",
+			"file": "src/main/resources/plugin.yml",
+			"file_size": 847,
+			"file_write_time": 1347344864000000,
+			"settings":
+			{
+				"buffer_size": 848,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Maven/Maven.sublime-build",
+	"command_palette":
+	{
+		"height": 285.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"if ",
+				"Snippet: else if"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 165.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/rymate/.config/sublime-text-2/Packages/SublimeAStyleFormatter/SublimeAStyleFormatter.sublime-settings",
+		"/home/rymate/bPermsCommands/src/main/java/net/rymate/bpermscommands/bPermsCommands.java",
+		"/home/rymate/bPermsCommands/bpermscommands.sublime-project",
+		"/home/rymate/bChatManager/Project.sublime-project",
+		"/home/rymate/node_modules/spotify-downloader/songs",
+		"/home/rymate/bin/matemediakeys.py",
+		"/home/rymate/python /test1.py",
+		"/home/rymate/bin/matemediakeysmpris2.py",
+		"/home/rymate/.m2/repository/de/bananaco/bPermissions/maven-metadata-local.xml",
+		"/home/rymate/bChatManager/src/main/resources/config.yml",
+		"/C/Users/Ryan/aseprite-0.9.5-win32/aseprite.ini",
+		"/C/Users/Ryan/bChatManager/src/main/resources/plugin.yml",
+		"/C/Users/Ryan/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Ryan/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Ryan/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Ryan/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Ryan/bChatManager/src/main/resources/config.yml",
+		"/C/Users/Ryan/bChatManager/src/main/java/net/rymate/bchatmanager/util/SLAPI.java",
+		"/C/Users/Ryan/bChatManager/src/main/java/net/rymate/bchatmanager/listeners/bChatListener.java",
+		"/C/Users/Ryan/bChatManager/src/main/java/net/rymate/bchatmanager/listeners/LegacyChatListener.java",
+		"/C/Users/Ryan/bChatManager/src/main/java/net/rymate/bchatmanager/Messages.java",
+		"/C/Users/Ryan/bChatManager/src/main/java/net/rymate/bchatmanager/Functions.java",
+		"/C/Users/Ryan/bChatManager/src/main/java/net/rymate/bchatmanager/bChatManager.java",
+		"/C/Users/Ryan/AppData/Roaming/Sublime Text 2/Packages/SublimeAStyleFormatter/SublimeAStyleFormatter.sublime-settings",
+		"/C/Users/Ryan/AppData/Roaming/Sublime Text 2/Packages/User/SublimeAStyleFormatter.sublime-settings",
+		"/C/Users/Ryan/AppData/Roaming/Sublime Text 2/Packages/SublimeAStyleFormatter/Default (Windows).sublime-keymap",
+		"/C/Users/Ryan/AppData/Roaming/Sublime Text 2/Packages/EclipseJavaFormatter/EclipseJavaFormatter.sublime-settings",
+		"/C/Users/Ryan/AppData/Roaming/Sublime Text 2/Packages/EclipseJavaFormatter/EclipseJavaFormatter.sublime-commands",
+		"/C/Users/Ryan/bChatManager/.gitignore",
+		"/C/Users/Ryan/AppData/Roaming/Sublime Text 2/Packages/SublimeJava/SublimeJava.sublime-settings",
+		"/C/Users/Ryan/bChatManager/Project.sublime-project",
+		"/C/Users/Ryan/Documents/GitHub/ChatManager/src/main/java/net/rymate/bchatmanager/bChatManager.java"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" ",
+			"ops"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\\n",
+			"/n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main/java/net/rymate/bpermscommands/bPermsCommands.java",
+					"settings":
+					{
+						"buffer_size": 481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								467,
+								467
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/main/java/net/rymate/bpermscommands/bApi.java",
+					"settings":
+					{
+						"buffer_size": 145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								118,
+								118
+							]
+						],
+						"settings":
+						{
+							"auto_name": "package net.rymate.bpermscommands;",
+							"syntax": "Packages/Java/Java.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/main/resources/plugin.yml",
+					"settings":
+					{
+						"buffer_size": 848,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								635,
+								635
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 160.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true
+}

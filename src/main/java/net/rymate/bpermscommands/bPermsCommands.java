@@ -1,7 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package net.rymate.bpermscommands;
 
 import java.util.logging.Logger;
@@ -17,12 +13,12 @@ public class bPermsCommands extends JavaPlugin {
     
     @Override
     public void onEnable() {
-        
+        logger.info("[bPermsCommands] Enabled!");
     }
     
     @Override
     public void onDisable() {
-        
+        logger.info("[bPermsCommands] Disabled!");
     }
     
 }
